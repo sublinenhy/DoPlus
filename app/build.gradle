@@ -37,6 +37,9 @@ dependencies {
     implementation 'com.gyf.immersionbar:immersionbar:3.0.0-beta04'
     // fragment快速实现（可选）
     implementation 'com.gyf.immersionbar:immersionbar-components:3.0.0-beta04'
+
+    //RichText Editor  https://github.com/wasabeef/richeditor-android
+    implementation 'jp.wasabeef:richeditor-android:1.2.2'
 }
 
 
