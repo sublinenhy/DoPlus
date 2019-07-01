@@ -30,6 +30,13 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.9'
     //firebase authentication
     implementation 'com.google.firebase:firebase-auth:17.0.0'
+
+
+    //将状态栏改为透明
+    // 基础依赖包，必须要依赖
+    implementation 'com.gyf.immersionbar:immersionbar:3.0.0-beta04'
+    // fragment快速实现（可选）
+    implementation 'com.gyf.immersionbar:immersionbar-components:3.0.0-beta04'
 }
 
 

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimary">#1B76FF</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    //DoPlus Custom Color
+    <color name="doPlusBlue">#1B76FF</color>
+    <color name="doPlusPurple">#732DD9</color>
+    <color name="doPlusOrange">#FF6517</color>
+    <color name="doPlusRed">#FF3939</color>
+    <color name="doPlusBlack">#000000</color>
+    <color name="doPlusGrey">#717171</color>
+
 </resources>
