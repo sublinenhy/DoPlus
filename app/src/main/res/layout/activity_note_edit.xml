@@ -51,33 +51,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
-    <!--<ScrollView-->
-        <!--android:layout_width="416dp"-->
-        <!--android:layout_height="0dp"-->
-        <!--android:layout_marginStart="8dp"-->
-        <!--android:layout_marginTop="17dp"-->
-        <!--android:layout_marginBottom="8dp"-->
-        <!--app:layout_constraintBottom_toTopOf="@+id/horizontalScrollView"-->
-        <!--app:layout_constraintEnd_toEndOf="parent"-->
-        <!--app:layout_constraintStart_toStartOf="parent"-->
-        <!--app:layout_constraintTop_toBottomOf="@+id/imageView">-->
-
-        <!--<LinearLayout-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:orientation="vertical"-->
-            <!--android:paddingRight="20dp">-->
-
-            <!--<jp.wasabeef.richeditor.RichEditor-->
-                <!--android:id="@+id/wv_editor"-->
-                <!--android:layout_width="match_parent"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_marginStart="16dp"-->
-                <!--app:layout_constraintStart_toStartOf="parent"-->
-                <!--tools:layout_editor_absoluteY="159dp" />-->
-
-        <!--</LinearLayout>-->
-    <!--</ScrollView>-->
 
     <HorizontalScrollView
         android:id="@+id/horizontalScrollView"
